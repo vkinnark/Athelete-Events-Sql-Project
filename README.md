@@ -5,8 +5,8 @@ This project Athelte events data using SQL.It aims to analyze historical Olympic
 Key metrics analyzed:
 The following metrcis were analyzed using
 
-1.Total number of Olympic Games that have been held
-2.List of all Olympic Games held so far.
+- 1.Total number of Olympic Games that have been held
+- 2.List of all Olympic Games held so far.
 3.Total number of nations that participated in each Olympic Games.
 4.Which year saw the highest and lowest number of countries participating in the Olympics?
 5.Which nation has participated in all of the Olympic Games?
