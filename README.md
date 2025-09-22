@@ -3,7 +3,7 @@ This project Athelte events data using SQL.It aims to analyze historical Olympic
 
 
 Key metrics analyzed:
-The following metrcis were analyzed using [Sql Queries]()
+The following metrcis were analyzed using [Sql Queries](https://github.com/vkinnark/Athelete-Events-Sql-Project/blob/main/Sql%20queries)
 
 - Total number of Olympic Games that have been held
 - List of all Olympic Games held so far.
