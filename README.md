@@ -2,7 +2,7 @@
 This project Athelte events data using SQL.It aims to analyze historical Olympic Games dataset to extract insights on participation, medal trends, and country-wise performance.
 
 
-Key metrics analyzed:
+**Key metrics analyzed:**
 The following metrcis were analyzed using [Sql Queries](https://github.com/vkinnark/Athelete-Events-Sql-Project/blob/main/Sql%20queries)
 
 - Total number of Olympic Games that have been held
