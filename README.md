@@ -1,4 +1,4 @@
-# Athelete-Events-Sql-Project
+# Olympic Games-Sql-Project
 This project Athelte events data using SQL.It aims to analyze historical Olympic Games dataset to extract insights on participation, medal trends, and country-wise performance.
 
 
