@@ -25,7 +25,7 @@ The following metrcis were analyzed using [Sql Queries](https://github.com/vkinn
 - Sport/event where India won the highest number of medals
 - Break down of all Olympic Games where India won a medal in Hockey and number of medals won in each Olympic Games.
 
-**Insights:**
+**Insights:**\
 Based on the analysis it was observed that
 - A total of 51 Olympic Games have been held
 - The highest participation was in 2016 summer with over 204 nations.
