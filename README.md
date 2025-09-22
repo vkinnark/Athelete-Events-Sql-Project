@@ -24,3 +24,12 @@ The following metrcis were analyzed using [Sql Queries](https://github.com/vkinn
 - Countries which have never won a gold medal but have won silver and/or bronze medals.
 - Sport/event where India won the highest number of medals
 - Break down of all Olympic Games where India won a medal in Hockey and number of medals won in each Olympic Games.
+
+Insights: Based on the analysis it was observed that
+- A total of **51 Olympic Games** have been held
+- The **highest participation** was in **2016 summer** with over **204 nations**.
+- The **lowest participation** was in the **1896 summer** with  **12 nations**
+- **United States** has participated in almost all Olympic Games and is the **most successful country** by medal count.
+- **India** has shown dominance in **Hockey**, with multiple gold medals
+- **Michael Phelps (USA)** is the most decorated athlete with the highest number of gold medals.
+- **Charles Jacobus (USA) and Oscar Gomer Swahn(Sweden)** are the **oldest athlete** to win a gold medal at the age of 64.
